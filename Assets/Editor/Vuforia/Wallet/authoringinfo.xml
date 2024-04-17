@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.2.14">
+        <ModelTarget name="Wallet" targetId="175057583de24ca3be9bbd84707b0d61" version="13.0" toolVersion="v6.2.14" bbox="-0.269575 0.231007 -0.102012 0.304985 0.379344 0.374124" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Wallet" assemblyId="7c2423b12c514a7ababa296c8b50598a">
+        <Part name="Wallet" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
